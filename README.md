@@ -2,6 +2,12 @@
 
 hi, 这个项目存放自己考研期间整理的一些资料，如果您觉得不错的话，欢迎star :star::star::star:
 
+如果你想编辑的这些资料的话，如何下载此项目，在你电脑的终端输入以下命令即可：(终端需要支持git，可google配置此项，在此不赘述)
+
+```bash
+git clone https://github.com/Jacexm/ecnu_804.git
+```
+
 ## :open_file_folder: 项目结构安排
 
 
