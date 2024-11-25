@@ -2,7 +2,7 @@
 
 hi, 这个项目存放自己考研期间整理的一些资料，如果您觉得不错的话，欢迎star :star::star::star:
 
-如果你想编辑的这些资料的话，如何下载此项目，在你电脑的终端输入以下命令即可：(终端需要支持git，可google配置此项，在此不赘述)
+如果你想编辑的这些资料，可在你电脑的终端输入以下命令即可：(_终端需要支持git，可google配置此项，在此不赘述_)
 
 ```bash
 git clone https://github.com/Jacexm/ecnu_804.git
@@ -10,6 +10,41 @@ git clone https://github.com/Jacexm/ecnu_804.git
 
 ## :open_file_folder: 项目结构安排
 
+```
+│  README.md
+│
+├─专业课资料
+│  │  README.md
+│  │
+│  ├─地图学与地理信息系统导论 资料
+│  │      GIS前沿与GIS开发.docx
+│  │      GIS算法题.docx
+│  │      专题地图制作.docx
+│  │      几何变换与空间插值.docx
+│  │      地图投影.docx
+│  │      地图数字化与拓扑关系.docx
+│  │      地理坐标系统.docx
+│  │      地理编码.docx
+│  │      矢量数据与栅格数据.docx
+│  │      空间分析.docx
+│  │      空间分析大题.docx
+│  │      空间数据.docx
+│  │      空间数据库.docx
+│  │
+│  └─遥感概论 资料
+│          第一章 遥感概述.docx
+│          第三章 遥感平台与遥感成像原理.docx
+│          第二章 电磁辐射与地物光谱特征.docx
+│          第五-六章 遥感图像的数字解译.docx 
+│          第五章 目视解译.docx
+│          第四章 遥感图像的数字处理.docx    
+│
+└─真题
+        20-22年804 部分解析.pdf
+        ECNU 804 测绘工程专业硕士真题.md
+        ECNU 882地图学与地理信息系统学术硕士真题.md
+        README.md
+```
 
 ## :rainbow: 历年报录比
 ### 804历年报录比
